@@ -1,6 +1,6 @@
 # Libtorch and Opencv
 
-A minimal example of how ot use OpenCV and Libtorch in the same project.
+A minimal example of how to use OpenCV and Libtorch in the same project.
 
 The project expects libtorch/ in the top-level direcotry. I have not included this in the repository to keep it light. 
 
